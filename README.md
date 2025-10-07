@@ -52,8 +52,8 @@ Python 3.8 or higher
 1. Clone the repository
 
 ```
-git clone https://github.com/formertriton/snake-game-portfolio.git
-cd snake-game-portfolio
+git clone https://github.com/yasir227/Snake_Game.git
+cd Snake_Game
 ```
 
 
@@ -272,11 +272,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-# 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ⭐ Star this repository if you found it helpful!
 
