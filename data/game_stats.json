@@ -1,0 +1,32 @@
+[
+  {
+    "start_time": "2025-08-06T12:22:41.928585",
+    "end_time": "2025-08-06T12:22:57.072211",
+    "score": 20,
+    "max_length": 2,
+    "duration_seconds": 15.143626,
+    "total_moves": 91,
+    "direction_changes": 8,
+    "foods_eaten": 2
+  },
+  {
+    "start_time": "2025-08-06T12:22:59.961612",
+    "end_time": "2025-08-06T12:23:52.261059",
+    "score": 100,
+    "max_length": 11,
+    "duration_seconds": 52.299447,
+    "total_moves": 398,
+    "direction_changes": 72,
+    "foods_eaten": 10
+  },
+  {
+    "start_time": "2025-08-06T12:26:53.239911",
+    "end_time": "2025-08-06T12:26:56.387719",
+    "score": 0,
+    "max_length": 1,
+    "duration_seconds": 3.147808,
+    "total_moves": 19,
+    "direction_changes": 0,
+    "foods_eaten": 0
+  }
+]

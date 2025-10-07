@@ -1,0 +1,26 @@
+[
+  {
+    "score": 100,
+    "max_length": 11,
+    "duration_seconds": 52.299447,
+    "foods_eaten": 10,
+    "date": "2025-08-06T12:22:59.961612",
+    "efficiency": 0.02763819095477387
+  },
+  {
+    "score": 20,
+    "max_length": 2,
+    "duration_seconds": 15.143626,
+    "foods_eaten": 2,
+    "date": "2025-08-06T12:22:41.928585",
+    "efficiency": 0.02197802197802198
+  },
+  {
+    "score": 0,
+    "max_length": 1,
+    "duration_seconds": 3.147808,
+    "foods_eaten": 0,
+    "date": "2025-08-06T12:26:53.239911",
+    "efficiency": 0.05263157894736842
+  }
+]

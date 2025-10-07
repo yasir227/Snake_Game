@@ -1,0 +1,29 @@
+{
+    "game": {
+        "width": 800,
+        "height": 600,
+        "cell_size": 20,
+        "initial_speed": 150,
+        "speed_increase": 5,
+        "colors": {
+            "background": "#000000",
+            "snake": "#00FF00",
+            "snake_head": "#FFFF00",
+            "food": "#FF0000",
+            "text": "#FFFFFF",
+            "grid": "#333333"
+        }
+    },
+    "data": {
+        "save_game_history": true,
+        "max_history_records": 1000,
+        "stats_file": "data/game_stats.json",
+        "high_scores_file": "data/high_scores.json"
+    },
+    "features": {
+        "show_grid": true,
+        "show_score": true,
+        "show_fps": false,
+        "enable_sound": false
+    }
+}
